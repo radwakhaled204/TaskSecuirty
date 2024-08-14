@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\Desktop\\UNIVERSITY 3TH\\Information System Secuirty\\pro\\TaskSecuirty\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE98B9F7-02E2-497F-8E05-04F7B4351AAB}|TaskSecuirty\\TaskSecuirty.csproj|c:\\users\\dell\\desktop\\university 3th\\information system secuirty\\pro\\tasksecuirty\\tasksecuirty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE98B9F7-02E2-497F-8E05-04F7B4351AAB}|TaskSecuirty\\TaskSecuirty.csproj|solutionrelative:tasksecuirty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE98B9F7-02E2-497F-8E05-04F7B4351AAB}|TaskSecuirty\\TaskSecuirty.csproj|c:\\users\\dell\\desktop\\university 3th\\information system secuirty\\pro\\tasksecuirty\\tasksecuirty\\used data\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CE98B9F7-02E2-497F-8E05-04F7B4351AAB}|TaskSecuirty\\TaskSecuirty.csproj|solutionrelative:tasksecuirty\\used data\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE98B9F7-02E2-497F-8E05-04F7B4351AAB}|TaskSecuirty\\TaskSecuirty.csproj|c:\\users\\dell\\desktop\\university 3th\\information system secuirty\\pro\\tasksecuirty\\tasksecuirty\\used data\\message.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CE98B9F7-02E2-497F-8E05-04F7B4351AAB}|TaskSecuirty\\TaskSecuirty.csproj|solutionrelative:tasksecuirty\\used data\\message.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE98B9F7-02E2-497F-8E05-04F7B4351AAB}|TaskSecuirty\\TaskSecuirty.csproj|c:\\users\\dell\\desktop\\university 3th\\information system secuirty\\pro\\tasksecuirty\\tasksecuirty\\used data\\alphabet.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CE98B9F7-02E2-497F-8E05-04F7B4351AAB}|TaskSecuirty\\TaskSecuirty.csproj|solutionrelative:tasksecuirty\\used data\\alphabet.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE98B9F7-02E2-497F-8E05-04F7B4351AAB}|TaskSecuirty\\TaskSecuirty.csproj|c:\\users\\dell\\desktop\\university 3th\\information system secuirty\\pro\\tasksecuirty\\tasksecuirty\\tasksecuirty.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE98B9F7-02E2-497F-8E05-04F7B4351AAB}|TaskSecuirty\\TaskSecuirty.csproj|solutionrelative:tasksecuirty\\tasksecuirty.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskSecuirty",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\UNIVERSITY 3TH\\Information System Secuirty\\pro\\TaskSecuirty\\TaskSecuirty\\TaskSecuirty.csproj",
+              "RelativeDocumentMoniker": "TaskSecuirty\\TaskSecuirty.csproj",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\UNIVERSITY 3TH\\Information System Secuirty\\pro\\TaskSecuirty\\TaskSecuirty\\TaskSecuirty.csproj",
+              "RelativeToolTip": "TaskSecuirty\\TaskSecuirty.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-28T23:29:15.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Alphabet.txt",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\UNIVERSITY 3TH\\Information System Secuirty\\pro\\TaskSecuirty\\TaskSecuirty\\Used Data\\Alphabet.txt",
+              "RelativeDocumentMoniker": "TaskSecuirty\\Used Data\\Alphabet.txt",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\UNIVERSITY 3TH\\Information System Secuirty\\pro\\TaskSecuirty\\TaskSecuirty\\Used Data\\Alphabet.txt",
+              "RelativeToolTip": "TaskSecuirty\\Used Data\\Alphabet.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-28T23:28:47.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Message.txt",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\UNIVERSITY 3TH\\Information System Secuirty\\pro\\TaskSecuirty\\TaskSecuirty\\Used Data\\Message.txt",
+              "RelativeDocumentMoniker": "TaskSecuirty\\Used Data\\Message.txt",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\UNIVERSITY 3TH\\Information System Secuirty\\pro\\TaskSecuirty\\TaskSecuirty\\Used Data\\Message.txt",
+              "RelativeToolTip": "TaskSecuirty\\Used Data\\Message.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-14T17:39:33.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Output.txt",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\UNIVERSITY 3TH\\Information System Secuirty\\pro\\TaskSecuirty\\TaskSecuirty\\Used Data\\Output.txt",
+              "RelativeDocumentMoniker": "TaskSecuirty\\Used Data\\Output.txt",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\UNIVERSITY 3TH\\Information System Secuirty\\pro\\TaskSecuirty\\TaskSecuirty\\Used Data\\Output.txt",
+              "RelativeToolTip": "TaskSecuirty\\Used Data\\Output.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-14T03:27:34.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\UNIVERSITY 3TH\\Information System Secuirty\\pro\\TaskSecuirty\\TaskSecuirty\\Program.cs",
+              "RelativeDocumentMoniker": "TaskSecuirty\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\UNIVERSITY 3TH\\Information System Secuirty\\pro\\TaskSecuirty\\TaskSecuirty\\Program.cs",
+              "RelativeToolTip": "TaskSecuirty\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T00:35:33.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
